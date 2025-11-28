@@ -415,7 +415,7 @@ function WordCyclingPhysics() {
       {/* Studio info in upper right corner */}
       <div className="absolute top-4 right-4 md:top-8 md:right-8 z-30 text-right text-xs md:text-sm lg:text-base font-anonymous-pro text-white max-w-[200px] md:max-w-none">
         <div className="mb-1 md:mb-2 leading-tight">Цифровая креативная студия<br className="md:hidden" /> основанная Сережей Рисом</div>
-        <a href="mailto:contact@example.com" className="hover:text-gray-300 transition-colors leading-tight">
+        <a href="https://t.me/serejaris" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-colors leading-tight">
           Нужно что-то сделать?<br className="md:hidden" /> <span className='underline'>Пишите!</span>
         </a>
       </div>
