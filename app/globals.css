@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --font-cormorant-garamond: 'Cormorant Garamond', serif;
+  --font-playfair: 'Playfair Display', serif;
+  --font-roboto-slab: 'Roboto Slab', serif;
+  --font-merriweather: 'Merriweather', serif;
+  --font-lora: 'Lora', serif;
+  --font-crimson: 'Crimson Text', serif;
+  --font-source-serif: 'Source Serif 4', serif;
+  --font-pt-serif: 'PT Serif', serif;
+  --font-libre-baskerville: 'Libre Baskerville', serif;
+  --font-eb-garamond: 'EB Garamond', serif;
+  --font-anonymous-pro: 'Anonymous Pro', monospace;
+}
+
+.font-playfair { font-family: var(--font-playfair) !important; }
+.font-roboto-slab { font-family: var(--font-roboto-slab) !important; }
+.font-merriweather { font-family: var(--font-merriweather) !important; }
+.font-lora { font-family: var(--font-lora) !important; }
+.font-crimson { font-family: var(--font-crimson) !important; }
+.font-source-serif { font-family: var(--font-source-serif) !important; }
+.font-pt-serif { font-family: var(--font-pt-serif) !important; }
+.font-libre-baskerville { font-family: var(--font-libre-baskerville) !important; }
+.font-eb-garamond { font-family: var(--font-eb-garamond) !important; }
+.font-anonymous-pro { font-family: var(--font-anonymous-pro) !important; }
